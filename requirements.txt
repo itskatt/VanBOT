@@ -1,0 +1,7 @@
+Pillow
+pycairo
+tqdm
+numpy
+scipy
+matplotlib
+
