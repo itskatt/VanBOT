@@ -3,5 +3,5 @@ pycairo
 tqdm
 numpy
 scipy
-matplotlib
+matplotlib==3.3
 
