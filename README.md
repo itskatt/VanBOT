@@ -1,3 +1,3 @@
 # VanBOT
 
-_Mon projet de fin d'année en classe de NSI 2021_
+Mon projet de fin d'année réalisé pour mes cours de NSI.
